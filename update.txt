@@ -1,7 +1,2 @@
 0.0.8.0
-https://drive.google.com/uc?export=download&id=1JbXKQzJHQhLe2APi4RVXXOo-RhkUZBCR
-
-
-[Update]
-Version=0.0.8.0
-https://drive.google.com/uc?export=download&id=1JbXKQzJHQhLe2APi4RVXXOo-RhkUZBCR
+https://drive.google.com/file/d/1JbXKQzJHQhLe2APi4RVXXOo-RhkUZBCR/view?usp=drive_link
