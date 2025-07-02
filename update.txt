@@ -1,8 +1,7 @@
 0.0.8.0
-https://drive.google.com/drive/folders/1nQG-ceUG_Bh74oAKxiGHHFsXET-lXhGe?usp=sharing
+https://drive.google.com/uc?export=download&id=1nQG-ceUG_Bh74oAKxiGHHFsXET-lXhGe
 
 
 [Update]
 Version=0.0.8.0
-URL=https://drive.google.com/drive/folders/1nQG-ceUG_Bh74oAKxiGHHFsXET-lXhGe?usp=sharing
-
+https://drive.google.com/uc?export=download&id=1nQG-ceUG_Bh74oAKxiGHHFsXET-lXhGe
