@@ -1,3 +1,4 @@
 0.1.2.0
 https://drive.google.com/file/d/1JbXKQzJHQhLe2APi4RVXXOo-RhkUZBCR/view?usp=sharing
-- 2行コミットメッセージテスト%n- 2-liner commit message test
+- 2行コミットメッセージテスト
+%n- 3行コミットメッセージのテスト%n- こちらは2行目です%n- This is the 3rd line
